@@ -10,3 +10,9 @@ faq.db*
 
 *.ipynb_checkpoints
 models/
+
+.dlt
+.codex
+.claude
+.agents
+*.duckdb
